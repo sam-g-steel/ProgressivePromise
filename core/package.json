@@ -1,0 +1,29 @@
+{
+  "name": "@progressive-promise/core",
+  "version": "0.9.0",
+  "description": "Promise class with mechanism to report progress before resolving",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-g-steel/ProgressivePromise.git"
+  },
+  "keywords": [
+    "promise",
+    "progress",
+    "react",
+    "async"
+  ],
+  "author": "Samuel V. Sylvester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sam-g-steel/ProgressivePromise/issues"
+  },
+  "homepage": "https://github.com/sam-g-steel/ProgressivePromise#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
